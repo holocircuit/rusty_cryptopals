@@ -1,0 +1,6 @@
+[package]
+name = "rusty_cryptopals"
+version = "0.1.0"
+authors = ["holocircuit <holocircuit@gmail.com>"]
+
+[dependencies]
